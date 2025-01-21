@@ -2,7 +2,6 @@
 
 ## Prerequisite  
 Before running the code, ensure that **Node.js** is installed on your PC. If not, refer to this [Node.js Downloading Documentation](https://nodejs.org/en/download/) for installation.
-
 ---
 
 ## Steps to Run the Code  
