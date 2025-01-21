@@ -1,0 +1,12 @@
+/* Hide scrollbar but keep scrolling */
+.scrollable {
+    overflow-y: auto;
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For IE and Edge */
+  }
+  
+  /* For Chrome, Safari, and Opera */
+  .scrollable::-webkit-scrollbar {
+    display: none;
+  }
+  
